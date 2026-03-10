@@ -1,0 +1,2 @@
+本project是旨在claude code指导下成为一个AI LLM 工程师的每日打卡练习项目
+每日任务见AI应用工程师学习路线.md
