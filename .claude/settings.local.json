@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda info --envs)",
+      "Bash(conda --version)",
+      "Bash(conda info)",
+      "Bash(conda activate jupyter-env && echo \"当前环境：$CONDA_DEFAULT_ENV\")",
+      "Bash(conda activate jupyter-env && jupyter notebook)",
+      "Bash(ls -la /Users/ouyangkai/Documents/oyk_learn/AI_learn/day*/)"
+    ]
+  }
+}
